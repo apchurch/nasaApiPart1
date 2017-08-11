@@ -1,0 +1,74 @@
+body{
+	text-align: center;
+}
+div {
+	text-align: center;	
+}
+#asteroid-info {
+	border: 3px solid red;
+	height: 150px;
+	width: 300px;
+	background-color: red;
+}
+#asteroid-info2 {
+	border: 3px solid black;
+	height: 150px;
+	width: 300px;
+}
+#asteroid-info3 {
+	border: 3px solid black;
+	height: 150px;
+	width: 300px;
+}
+#asteroid-info4 {
+	border: 3px solid black;
+	height: 150px;
+	width: 300px;
+}
+#asteroid-info5 {
+	border: 3px solid black;
+	height: 150px;
+	width: 300px;
+}
+#asteroid-info6 {
+	border: 3px solid black;
+	height: 150px;
+	width: 300px;
+}
+#asteroid-info7 {
+	border: 3px solid black;
+	height: 150px;
+	width: 300px;
+}
+#asteroid-info8 {
+	border: 3px solid black;
+	height: 150px;
+	width: 300px;
+}
+#asteroid-info9 {
+	border: 3px solid black;
+	height: 150px;
+	width: 300px;
+}
+#asteroid-info10 {
+	border: 3px solid black;
+	height: 150px;
+	width: 300px;
+}
+#asteroid-info11 {
+	border: 3px solid green;
+	height: 150px;
+	width: 300px;
+	background-color: green;
+}
+#left {
+	margin-left: 100px;
+}
+#center {
+	margin-left: 403px;
+	margin-top: -640px;
+}
+#right {
+	margin-left: 706px;
+	margin-top: -640px;
+}
